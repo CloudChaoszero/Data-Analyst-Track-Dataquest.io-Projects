@@ -1,3 +1,9 @@
-# Data-Analyst-Track-Dataquest.io-Projects
+# Data-Analyst Track Dataquest.io Projects
+#### via https://www.dataquest.io/about-us
+
 A complete compilation of my work with Dataquest.io
 > https://www.dataquest.io/profile/RaulMaldonado
+
+In this work, I showed proficiency in Data Analysis, Python, SQL, GIT, and Command Line projects. These projects can be found in seperate folders of this working directory.
+
+![alt text](https://www.dataquest.io/view_cert/YQYNU1LAWL381BCNQV9G/)
